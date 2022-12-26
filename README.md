@@ -9,7 +9,7 @@
 
 [<img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='Email' height='40'>](mailto:omarheshamali202@gmail.com)
 &nbsp;&nbsp;
-
+&nbsp;&nbsp;
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/mohamedr-772/)
 
 <h3 align="left">Languages and Tools:</h3>
