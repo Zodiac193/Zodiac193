@@ -23,3 +23,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zodiac193&show_icons=true&locale=en" alt="zodiac193" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zodiac193&" alt="zodiac193" /></p>
+
+
+
+### 🌟 Streak:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zodiac193&theme=radical&include_all_commits=true&count_private=true)](https://github.com/omarelshopky)
+
+### 📈 Stats:
+
+[![Mohamed Refaat's github stats](https://github-readme-stats.vercel.app/api?username=Zodiac193&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/omarelshopky?tab=repositories)
+
+### 🏆 Github Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zodiac193&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
