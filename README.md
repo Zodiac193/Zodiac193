@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Refaat</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on **My Personal Website**
 
 - 🌱 I’m currently learning **Front End Skills**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Zodiac193](https://github.com/Zodiac193)
 
 ### <br> 📫 How to reach me:
 
