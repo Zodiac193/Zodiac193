@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/62917337/209548477-26f9da96-3acc-40c1-bd86-43788c7f7e0b.gif)
-
+[<img src="./ezgif.com-gif-maker.gif]
+&nbsp;&nbsp;
 
 <h3 align="center">Full Stack Software Developer</h3>
 
@@ -22,10 +22,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodiac193&langs_count=15&layout=compact&theme=radical)](https://github.com/Zodiac193?tab=repositories)
 
 ### 🌟 Streak:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zodiac193&theme=radical&include_all_commits=true&count_private=true)](https://github.com/omarelshopky)
 
 ### 📈 Stats:
 
 [![Mohamed Refaat's github stats](https://github-readme-stats.vercel.app/api?username=Zodiac193&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/omarelshopky?tab=repositories)
-
-
