@@ -4,11 +4,7 @@
   <img src="https://github.com/arth2002/arth2002/blob/main/gif/ezgif.com-gif-maker.gif" alt="GIF is being loaded">
 </p>
 
-<h3 align="center">Full Stack Software Developer</h3>
-
 - 🔭 I’m currently working on **My Personal Website**
-
-- 🌱 I’m currently learning **Front End Skills**
 
 ### <br> 📫 How to reach me:
 
