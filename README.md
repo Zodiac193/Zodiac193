@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Refaat</h1>
 <h3 align="center">Full Stack Developer interesed Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zodiac193&label=Profile%20views&color=0e75b6&style=flat" alt="zodiac193" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zodiac193" alt="zodiac193" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/more7729" target="blank"><img src="https://img.shields.io/twitter/follow/more7729?logo=twitter&style=for-the-badge" alt="more7729" /></a> </p>
 
 - 🔭 I’m currently working on **personal Website**
 
