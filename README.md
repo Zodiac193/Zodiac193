@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-[<img src="./ezgif.com-gif-maker.gif]
+[<img src="./ezgif.com-gif-maker.gif"]
 &nbsp;&nbsp;
 
 <h3 align="center">Full Stack Software Developer</h3>
