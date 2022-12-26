@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohamed Refaat</h1>
+<h1 align="center">Hi 👋</h1>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62917337/209548477-26f9da96-3acc-40c1-bd86-43788c7f7e0b.gif)
+
+
 <h3 align="center">Full Stack Software Developer</h3>
 
 - 🔭 I’m currently working on **My Personal Website**
