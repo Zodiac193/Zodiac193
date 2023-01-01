@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/arth2002/arth2002/blob/main/gif/ezgif.com-gif-maker.gif" alt="GIF is being loaded">
+<!--   <img src="https://github.com/arth2002/arth2002/blob/main/gif/ezgif.com-gif-maker.gif" alt="GIF is being loaded"> -->
   <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 </p>
 
-### <br> 📫 How to reach me:
+<!-- ### <br> 📫 How to reach me:
 
 [<img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='Email' height='40'>](mailto:omarheshamali202@gmail.com)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-[<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/mohamedr-772/)
+[<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='Linkedin' height='40'>](https://www.linkedin.com/in/mohamedr-772/) -->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 
