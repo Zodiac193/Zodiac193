@@ -5,8 +5,6 @@
   <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 </p>
 
-- 🔭 I’m currently working on **My Personal Website**
-
 ### <br> 📫 How to reach me:
 
 [<img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='Email' height='40'>](mailto:omarheshamali202@gmail.com)
